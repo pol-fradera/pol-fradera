@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Pol Fradera.          
+- 👨‍💻 I'm specialized in computer science.
+- ✍ I'm currently studying at UPC-FIB university.
+- 👀 I’m interested programming, informatics and mathematics.
+- 📬 How to reach me: polfradera2@gmail.com
