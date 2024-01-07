@@ -2,6 +2,7 @@
 
 - 👨‍💻 I'm specialized in computer science.
 - ✍ I'm currently studying at UPC-FIB university.
+- :book: I've done my exchange studies at KTH (Stockholm).
 - 👀 I’m interested programming, informatics and mathematics.
 - 📬 How to reach me: polfraderadev@gmail.com
 
