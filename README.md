@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pol Fradera</h1>       
 
 - 👨‍💻 I'm specialized in computer science.
+- 💼 I'm a Python Developer at Bamboo Energy.
 - ✍ I'm currently studying at UPC-FIB university.
 - :book: I've done my exchange studies at KTH (Stockholm).
 - 👀 I’m interested programming, informatics and mathematics.
